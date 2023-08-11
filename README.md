@@ -62,3 +62,6 @@ Teachable Machine is a fast, easy way to create machine learning models for your
     }
 </script>
 ```
+
+## Output
+<img width="946" alt="Teachable Machine Test" src="https://github.com/Razanalshaeri/AI-TeachableMachine/assets/135154136/c0212a5c-44ea-4139-981b-8494c43130ed">
